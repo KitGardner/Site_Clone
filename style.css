@@ -1,0 +1,31 @@
+.border-red {
+  height: 5px;
+  background-color: red;
+}
+
+.guild-emblem {
+  max-width: 200px;
+}
+
+.three-cards{
+  background-image: url("/cork-board.jpg");
+  background-repeat: repeat-x;
+}
+
+body{
+  background-image: url("background.jpg");
+  background-repeat: repeat;
+}
+
+header{
+  background-color: black;
+}
+
+.founder{
+  width: 100px;
+  height: 100px;
+}
+
+.monster{
+  height: 360px;
+}
